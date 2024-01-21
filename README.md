@@ -2,11 +2,15 @@
 
 ## Installation
 
+### [Fisher](https://github.com/jorgebucaran/fisher)
+
 ```fish
 fisher install xelorr/tmux.fish
 ```
 
-or just copy code from [tm.fish](functions/tm.fish) to your `~/.config/fish/config.fish`
+### Manually
+
+just copy code from [tm.fish](functions/tm.fish) to your `~/.config/fish/config.fish` or source it
 
 ## Usage
 
