@@ -5,9 +5,6 @@ function tm -d "Connect to Tmux session or create one"
         tmux a || tmux
     end
 end
-function tml -d "List Tmux sessions"
-    tmux list-sessions
-end
 # if not set -q TMUX
 #     set -g TMUX tmux new-session -d -s base
 #     eval $TMUX
