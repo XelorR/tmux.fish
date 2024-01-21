@@ -22,3 +22,6 @@ Provides two functions:
 - `tm` command without argument creates session named `0` or connects to already existing tmux session
 - `tm` first argument used as session name, e.g. `tm something` creates session named "something" or connects to it if it already exists
 
+## Alternatives
+
+- much more powetful implementation i have just discovered: [article](https://brettterpstra.com/2019/12/17/tm-wrapper-for-tmux-redux-with-fish-tab-completion/), [code](https://gist.github.com/ttscoff/a37427a8c331f072904d)
